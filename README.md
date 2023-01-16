@@ -175,7 +175,7 @@ The uses of Kedilam in Cuddalore District are
 </p>
 </body>
 </html>
-
+```
 ## Output:
 
 ![Output](./screenshots/out1.png)
@@ -191,7 +191,7 @@ The uses of Kedilam in Cuddalore District are
 ![Output](./screenshots/out6.png)
 
 ## HTML Validator 
-![HTML Validator ](./screenshots/valid.png)
+![HTML Validator](./screenshots/valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
